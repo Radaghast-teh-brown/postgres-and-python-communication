@@ -8,3 +8,8 @@ I want to make a GUI to take datas from the users and store them in my database 
 - Make GUI 
 - Store data in database
 - Show information 
+
+
+
+#### Development Environment
+- PyCharm 2022.1.3
